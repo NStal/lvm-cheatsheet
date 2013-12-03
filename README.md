@@ -3,7 +3,7 @@ lvm-cheatsheet
 
 LVM cheat sheet
 
-We can test lvm by creating IMG file using dd and mount the image as a loop device. And use the loop device as the fake disk. using losetup to create a loop device.
+We can test lvm by creating IMG file using dd and mount the image as a loop device. And use the loop device as the fake disk. using losetup to create a loop device. (don't include in the cheat sheet)
 
 
 ```bash
